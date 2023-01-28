@@ -7,6 +7,8 @@ authors = ["Arwichok <me@arwi.dev>"]
 [tool.poetry.dependencies]
 python = "^3.9"
 aiogram = "3.0.0b6"
+uvicorn = "^0.20.0"
+fastapi = "^0.89.1"
 
 [tool.poetry.dev-dependencies]
 
